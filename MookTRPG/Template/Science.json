@@ -1,0 +1,67 @@
+[
+    {
+        "Name": "地质学",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "化学",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "生物学",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "数学",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "天文学",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "物理学",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "药学",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "植物学",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "动物学",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "密码学",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "工程学",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "气象学",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "司法科学",
+        "BasePoints": 1,
+        "Description": ""
+    }
+]

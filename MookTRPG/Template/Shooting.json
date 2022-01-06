@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "步枪/霰弹枪",
+        "BasePoints": 25,
+        "Description": ""
+    },
+    {
+        "Name": "冲锋枪",
+        "BasePoints": 15,
+        "Description": ""
+    },
+    {
+        "Name": "弓术",
+        "BasePoints": 15,
+        "Description": ""
+    },
+    {
+        "Name": "火焰喷射器",
+        "BasePoints": 10,
+        "Description": ""
+    },
+    {
+        "Name": "机枪",
+        "BasePoints": 10,
+        "Description": ""
+    },
+    {
+        "Name": "手枪",
+        "BasePoints": 20,
+        "Description": ""
+    },
+    {
+        "Name": "重武器",
+        "BasePoints": 10,
+        "Description": ""
+    }
+]

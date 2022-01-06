@@ -1,0 +1,379 @@
+[
+    {
+        "Name": "会计",
+        "BasePoints": 5,
+        "Type": "知识",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "人类学",
+        "BasePoints": 1,
+        "Type": "探索",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "估价",
+        "BasePoints": 5,
+        "Type": "探索",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "考古学",
+        "BasePoints": 1,
+        "Type": "知识",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "技艺",
+        "BasePoints": 5,
+        "Type": "技能",
+        "HaveBranchSkill": true,
+        "Description": ""
+    },
+    {
+        "Name": "取悦",
+        "BasePoints": 15,
+        "Type": "交流",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "攀爬",
+        "BasePoints": 20,
+        "Type": "运动",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "计算机使用",
+        "BasePoints": 5,
+        "Type": "技能",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "信用评级",
+        "BasePoints": 0,
+        "Type": "交流",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "克苏鲁神话",
+        "BasePoints": 0,
+        "Type": "知识",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "乔装",
+        "BasePoints": 5,
+        "Type": "探索",
+        "Description": ""
+    },
+    {
+        "Name": "闪避",
+        "BasePoints": 0,
+        "Type": "战斗",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "汽车驾驶",
+        "BasePoints": 20,
+        "Type": "技能",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "电气维修",
+        "BasePoints": 10,
+        "Type": "技能",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "电子学",
+        "BasePoints": 1,
+        "Type": "知识",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "话术",
+        "BasePoints": 5,
+        "Type": "交流",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "格斗",
+        "BasePoints": 0,
+        "Type": "战斗",
+        "HaveBranchSkill": true,
+        "Description": ""
+    },
+    {
+        "Name": "射击",
+        "BasePoints": 0,
+        "Type": "战斗",
+        "HaveBranchSkill": true,
+        "Description": ""
+    },
+    {
+        "Name": "急救",
+        "BasePoints": 30,
+        "Type": "医疗",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "历史",
+        "BasePoints": 5,
+        "Type": "知识",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "恐吓",
+        "BasePoints": 15,
+        "Type": "交流",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "跳跃",
+        "BasePoints": 20,
+        "Type": "运动",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "母语",
+        "BasePoints": 0,
+        "Type": "交流",
+        "HaveBranchSkill": true,
+        "Description": ""
+    },
+    {
+        "Name": "外语",
+        "BasePoints": 1,
+        "Type": "交流",
+        "HaveBranchSkill": true,
+        "Description": ""
+    },
+    {
+        "Name": "法律",
+        "BasePoints": 5,
+        "Type": "知识",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "图书馆使用",
+        "BasePoints": 20,
+        "Type": "知识",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "聆听",
+        "BasePoints": 20,
+        "Type": "探索",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "锁匠",
+        "BasePoints": 1,
+        "Type": "技能",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "机械维修",
+        "BasePoints": 10,
+        "Type": "技能",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "医学",
+        "BasePoints": 1,
+        "Type": "医疗",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "博物学",
+        "BasePoints": 10,
+        "Type": "知识",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "导航",
+        "BasePoints": 10,
+        "Type": "技能",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "神秘学",
+        "BasePoints": 5,
+        "Type": "知识",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "操作重型机械",
+        "BasePoints": 1,
+        "Type": "技能",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "说服",
+        "BasePoints": 10,
+        "Type": "交流",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "驾驶",
+        "BasePoints": 1,
+        "Type": "技能",
+        "HaveBranchSkill": true,
+        "Description": ""
+    },
+    {
+        "Name": "精神分析",
+        "BasePoints": 1,
+        "Type": "医疗",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "心理学",
+        "BasePoints": 10,
+        "Type": "交流",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "骑术",
+        "BasePoints": 5,
+        "Type": "运动",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "科学",
+        "BasePoints": 1,
+        "Type": "知识",
+        "HaveBranchSkill": true,
+        "Description": ""
+    },
+    {
+        "Name": "妙手",
+        "BasePoints": 10,
+        "Type": "技能",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "侦察",
+        "BasePoints": 25,
+        "Type": "探索",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "潜行",
+        "BasePoints": 20,
+        "Type": "探索",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "生存",
+        "BasePoints": 10,
+        "Type": "探索",
+        "HaveBranchSkill": true,
+        "Description": ""
+    },
+    {
+        "Name": "游泳",
+        "BasePoints": 20,
+        "Type": "运动",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "投掷",
+        "BasePoints": 20,
+        "Type": "战斗",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "追踪",
+        "BasePoints": 10,
+        "Type": "探索",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "驯兽",
+        "BasePoints": 5,
+        "Type": "技能",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "潜水",
+        "BasePoints": 1,
+        "Type": "运动",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "爆破",
+        "BasePoints": 1,
+        "Type": "战斗",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "读唇",
+        "BasePoints": 1,
+        "Type": "探索",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "催眠",
+        "BasePoints": 1,
+        "Type": "医疗",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "炮术",
+        "BasePoints": 1,
+        "Type": "战斗",
+        "HaveBranchSkill": false,
+        "Description": ""
+    },
+    {
+        "Name": "学识",
+        "BasePoints": 1,
+        "Type": "学识",
+        "HaveBranchSkill": true,
+        "Description": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "Name": "表演",
+        "BasePoints": 5,
+        "Description": "表演者收到过戏剧以及/或电影演技的训练（在现代，这可能也包括电视），使你能适应一个人物角色，记住剧本，以及使用舞台/电影化妆来改变他们的外貌。"
+    },
+    {
+        "Name": "美术",
+        "BasePoints": 5,
+        "Description": "艺术家在艺术绘画上十分熟练（油画、丙烯画、水彩画），同样在用铅笔、彩色蜡笔、粉笔的素描上十分熟练。然而这各种各样的艺术工作许多天或者许多月来完成，艺术家可能能快速素描出准确的印象，物体或者人物。这项技能也代表了对艺术世界的熟悉，以及技术家能确定特定艺术家的作品，他们的学校，以及了解的历史。"
+    },
+    {
+        "Name": "摄影",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "伪造",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "写作",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "书法",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "音乐",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "厨艺",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "裁缝",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "理发",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "建筑",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "舞蹈",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "酿酒",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "捕鱼",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "歌唱",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "制陶",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "雕塑",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "杂技",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "风水",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "制图",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "耕作",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "打字",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "速记",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "木匠",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "莫里斯舞蹈",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "歌剧歌唱",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "粉刷匠/油漆工",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "吹真空管",
+        "BasePoints": 5,
+        "Description": ""
+    }
+]

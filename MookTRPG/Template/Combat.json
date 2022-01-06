@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "鞭子",
+        "BasePoints": 5,
+        "Description": ""
+    },
+    {
+        "Name": "电锯",
+        "BasePoints": 10,
+        "Description": ""
+    },
+    {
+        "Name": "斗殴",
+        "BasePoints": 25,
+        "Description": ""
+    },
+    {
+        "Name": "斧",
+        "BasePoints": 15,
+        "Description": ""
+    },
+    {
+        "Name": "剑",
+        "BasePoints": 20,
+        "Description": ""
+    },
+    {
+        "Name": "绞索",
+        "BasePoints": 15,
+        "Description": ""
+    },
+    {
+        "Name": "链枷",
+        "BasePoints": 10,
+        "Description": ""
+    },
+    {
+        "Name": "矛",
+        "BasePoints": 20,
+        "Description": ""
+    }
+]

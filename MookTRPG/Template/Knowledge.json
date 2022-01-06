@@ -1,0 +1,62 @@
+[
+    {
+        "Name": "梦学问",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "死灵之书学问",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "UFO学问",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "吸血鬼学问",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "佛教学问",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "道教学问",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "神道教学问",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "阴阳道学问",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "狼人学问",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "亚迪斯星人学问",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "都市传说学问",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "中国鬼怪学问",
+        "BasePoints": 1,
+        "Description": ""
+    }
+]

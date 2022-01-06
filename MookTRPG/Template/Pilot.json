@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "飞行器",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "船",
+        "BasePoints": 1,
+        "Description": ""
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "Name": "汉语",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "英语",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "日语",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "拉丁语",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "阿拉伯语",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "法语",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "西班牙语",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "葡萄牙语",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "德语",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "斯拉夫语",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "希伯来语",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "梵语",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "朝鲜语",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "印地语",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "藏语",
+        "BasePoints": 1,
+        "Description": ""
+    },
+    {
+        "Name": "蒙古语",
+        "BasePoints": 1,
+        "Description": ""
+    }
+]
